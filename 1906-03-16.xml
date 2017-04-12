@@ -252,7 +252,70 @@
                             LD., CAIRO ;</p>
                         <p>G. J. GRACE &amp; CO., ALEXANDRIA.</p>
                     </div>
-                    <!-- Add WHITE STAR LINE AD-needs template -->
+                    <div type="item" scope="advertisement">
+                        <head>WHITE STAR LINE.</head>
+                        <p>NEW YORK AND BOSTON MEDITERRANEAN SERVICE.</p>
+                        <p>Regular Sailings between Alexandria , Naples, and Boston or New York,
+                            U.S.A. By the large modern twin screw steamers REPUBLIC, 15,400 tons-
+                            CANOPIC, 13,000 tons- ROMANIC, 11,400 tons.</p>
+                        <table rows="6" cols="7">
+                            <row>
+                                <cell cols="7">Sailings from Alexandria</cell>
+                            </row>
+                            <row>
+                                <cell>Steamer</cell>
+                                <cell>From Alexandria</cell>
+                                <cell>Due at Naples</cell>
+                                <cell>From Naples</cell>
+                                <cell>From Azores</cell>
+                                <cell>Due at New York</cell>
+                                <cell>Due at Boston</cell>
+                            </row>
+                            <row>
+                                <cell>Canopic</cell>
+                                <cell><date when="1906-02-01">March 15 1</date></cell>
+                                <cell><date when="1906-02-04">March 18</date></cell>
+                                <cell><date when="1906-02-07">March 21</date></cell>
+                                <cell><date when="1906-02-13">March 27</date></cell>
+                                <cell/>
+                                <cell><date when="1906-02-19">April 2</date></cell>
+                            </row>
+                            <row>
+                                <cell>Republic</cell>
+                                <cell><date when="1906-02-15">March 29</date></cell>
+                                <cell><date when="1906-02-18">April 1</date></cell>
+                                <cell><date when="1906-02-21">April 4</date></cell>
+                                <cell><date when="1906-02-21">Aprl 10</date></cell>
+                                <cell><date when="1906-03-05">April 16</date></cell>
+                                <cell><date when="1906-03-05">April 23</date></cell>
+                            </row>
+                            <row>
+                                <cell>Romanic</cell>
+                                <cell/>
+                                <cell/>
+                                <cell><date when="1906-02-28">April 11</date></cell>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                            </row>
+                            <row>
+                                <cell>Cretic</cell>
+                                <cell/>
+                                <cell/>
+                                <cell><date when="1906-04-04">April 21</date></cell>
+                                <cell/>
+                                <cell/>
+                                <cell/>
+                            </row>
+                        </table>
+                        <p>Regular Service between Italy and United States throughout the year.
+                            Excellent accommodation for all classes of passengers. For plans of
+                            steamers, rates of passages between the various ports, and full
+                            particulars, apply to THOS, COOK &amp; SON (Egypt) Ltd., Cairo,
+                            Alexandria, Luxor and Assouan; John Ross &amp; Co., Alexandria; White
+                            Star Line, Via Roma, Gena, and 21, Piazza della Borsa, Naples.</p>
+                        <p><measure type="indexNo">27600-31.3.906</measure></p>
+                    </div>
                     <div type="item" scope="advertisement" xml:id="deg-ad-tcs03">
                         <head>Thos. Cook &amp; Son, (EGYPT), LTD</head>
                         <p>CHIEF EGYPTIAN OFFICE: — NEAR SHEPHEARD'S HOTEL.</p>
